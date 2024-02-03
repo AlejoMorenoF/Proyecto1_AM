@@ -1,12 +1,11 @@
-## Proyecto de Ciencia de Datos
+# Proyecto de Ciencia de Datos
 Este es el proyecto de la primera clase del tercer semestre de la maestria
 
-## Descripcion
+# Descripcion
 Describir el proyecto
 
-## Requisitos
+# Requisitos
 Aqui poner los requisitos
 
-## Estructura del proyecto
+# Estructura del proyecto
 Aqui poner la estructura
- 
